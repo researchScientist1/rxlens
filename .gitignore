@@ -1,0 +1,15 @@
+
+# RxLens
+.env
+data/
+*.jpg
+*.jpeg
+*.png
+
+.env
+data/
+*.jpg
+*.png
+venv/
+__pycache__/
+.DS_Store
